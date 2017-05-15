@@ -13,7 +13,7 @@ var contenedorPost = document.createElement("p");
 var separacion = document.createElement("hr");
 
 //creamos elemento para corazon
-var parrafCorazon = document.creamos('p');
+var parrafCorazon = document.createElement('p');
 var i = document.createElement('i');
 
 //asignamos padre a icono corazon 
